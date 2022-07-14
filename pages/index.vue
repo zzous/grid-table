@@ -39,7 +39,7 @@
 
     <div class="section">
       <h2>Handsontable</h2>
-      <div class="img"><img src="~/assets/images/handsontable.png" alt=""></div>
+      <div class="img"><img src="~/assets/images/handsontable.jpg" alt=""></div>
       <ul>
         <li>link : <a href="https://handsontable.com/demo" target="_blank">https://handsontable.com/demo</a>
         </li>
@@ -65,7 +65,7 @@
     </div>
     <div class="section">
       <h2>vue-good-table</h2>
-      <div class="img"><img src="~/assets/images/vue-good-table.png" alt=""></div>
+      <div class="img"><img src="~/assets/images/vue-good-table.jpg" alt=""></div>
       <ul>
         <li>link : <a href="https://xaksis.github.io/vue-good-table/" target="_blank">https://xaksis.github.io/vue-good-table/</a></li>
         <li>license : MIT</li>
@@ -74,7 +74,7 @@
     </div>
     <div class="section">
       <h2>vue3-easy-data-table</h2>
-      <div class="img"><img src="~/assets/images/vue3-easy-data-table.png" alt=""></div>
+      <div class="img"><img src="~/assets/images/vue3-easy-data-table.jpg" alt=""></div>
       <ul>
         <li>link : <a href="https://hc200ok.github.io/vue3-easy-data-table-doc/" target="_blank">https://hc200ok.github.io/vue3-easy-data-table-doc/</a></li>
         <li>document : <a href="https://hc200ok.github.io/vue3-easy-data-table-doc/introduction.html" target="_blank">https://hc200ok.github.io/vue3-easy-data-table-doc/introduction.html</a></li>

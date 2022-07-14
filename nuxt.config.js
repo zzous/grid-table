@@ -1,4 +1,5 @@
 module.exports = {
+  target: 'static',
   /*
   ** Headers of the page
   */
@@ -38,9 +39,9 @@ module.exports = {
   /*
    ** Server Configuration
    */
-  server: {
-    port: 8080,
-    host: '172.16.11.119'
-  }
+  // server: {
+  //   port: 8080,
+  //   host: '172.16.11.119'
+  // }
 }
 

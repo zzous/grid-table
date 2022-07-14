@@ -1,5 +1,8 @@
 module.exports = {
   target: 'static',
+  router: {
+    base: '/grid-table/'
+  },
   /*
   ** Headers of the page
   */

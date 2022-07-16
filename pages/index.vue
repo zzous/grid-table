@@ -132,7 +132,6 @@ export default {
   methods: {
     scrollMove(target) {
       const _target = document.getElementById(target);
-      // console.log(_target.offsetTop)
       window.scrollTo({top: _target.offsetTop, behavior: 'smooth'})
     }
   }
